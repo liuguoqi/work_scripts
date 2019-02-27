@@ -1,0 +1,8 @@
+sampleName	gene	mutationType	mutationExon	proteinChange	mutationFrequency	HGVS	depth	reference	mutation	chromosome	position	dbsnpID	cosmicID	drugResponse	populationFrequency	degree	duplicationTempP	uniqTempP	duplicationTempS	uniqTempS	HGVS_C
+ZK90001112FFPE1	EGFR	missense_variant	21	p.L858R	7.9%	NM_005228.3(EGFR):c.2573T>G(p.Leu858Arg)	3329	T	G	7	55259515	rs121434568	COSM6224	L858	0	uncertain	14	55	16	79	c.2573T>G
+ZK90001112FFPE2	POLE	frameshift_variant	34	p.V1446fs	1.9%	NM_006231.3(POLE):c.4337_4338del(p.Val1446fs)	4480	CCA	C	12	133220098	NA	COSM1745060	LOF	1e-04	uncertain	1	17	1	48	c.4337_4338del
+ZK90001112FFPE3	NTRK1	splice_donor_variant	11	NA	46.9%	NM_002529.3(NTRK1):c.1354+1G>A	5616	G	A	1	156844801	NA	COSM4023454	Exon11_splice_site	0	uncertain	162	306	262	716	c.1354+1G>A
+ZK90001112FFPE_test1	NTRK1	splice_donor_variant	11	NA	46.9%	NM_002529.3(NTRK1):c.1354+1G>A	5616	C	A	1	8073509	NA	COSM4023454	Exon11_splice_site	0	uncertain	162	306	262	716	c.1354+1G>A
+ZK90001112FFPE_test2	NTRK1	splice_donor_variant	11	NA	46.9%	NM_002529.3(NTRK1):c.1354+1G>A	5616	TTCA	T	2	48027794	NA	COSM4023454	Exon11_splice_site	0	uncertain	162	306	262	716	c.1354+1G>A
+ZK90001112FFPE_test3	NTRK1	splice_donor_variant	11	NA	46.9%	NM_002529.3(NTRK1):c.1354+1G>A	5616	GGC	TT	3	10183794	NA	COSM4023454	Exon11_splice_site	0	uncertain	162	306	262	716	c.1354+1G>A
+ZK90001112FFPE_test4	NTRK1	splice_donor_variant	11	NA	46.9%	NM_002529.3(NTRK1):c.1354+1G>A	5616	C	CCGTT	2	29445271	NA	COSM4023454	Exon11_splice_site	0	uncertain	162	306	262	716	c.1354+1G>A
