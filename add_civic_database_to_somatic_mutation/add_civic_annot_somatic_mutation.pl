@@ -36,7 +36,7 @@ sub usage {
 #         -c*  <str>    civic  database  annotation file   
 #         -o   <str>    output file default : xxx_somatic_mutation3.xls
 ################################################################################################################
-#         Example : $0 -i ZK90001112FFPE_somatic_mutation2.xls  -c /share/liumingming/XArchive/bio_pipeline/database/civic/20190225/hg19_civic_20190225.txt -o ZK90001112FFPE_somatic_mutation3.xls
+#         Example : $0 -i ZK90001112FFPE_somatic_mutation2.xls  -c hg19_civic_20190225.txt -o ZK90001112FFPE_somatic_mutation3.xls
 ################################################################################################################
 #         Program : $0
 #         Version : $VERSION
