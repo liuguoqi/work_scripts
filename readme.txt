@@ -1,4 +1,9 @@
+
 Author  : GuoqiLiu
 Date    : start 2019-02-27
 Suppose : work script
-#
+----------------------------------------
+#add_civic_database_to_somatic_mutation#
+1.This script is to add civic database to somatic mutation , civic database data from https://civicdb.org/releases .
+2.Script is match chromosome ,chromosome position ,chromosome mutation position to to get civic information . 
+----------------------------------------
