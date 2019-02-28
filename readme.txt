@@ -7,3 +7,8 @@ Suppose : work script
 1.This script is to add civic database to somatic mutation , civic database data from https://civicdb.org/releases .
 2.Script is match chromosome ,chromosome position ,chromosome mutation position to to get civic information . 
 ----------------------------------------
+
+----------------------------------------
+#getfasta 
+1.From a very big file to substract a very small file  eg , from NT or NR database get some fasta file  . 
+----------------------------------------
