@@ -1,0 +1,86 @@
+>Info
+zkjy_ID	zkjy_delegation	zkjy_acception	zkjy_report	zkjy_name	zkjy_gender	zkjy_age	zkjy_sample_type	zkjy_clinical_info	zkjy_submission_unit
+ZK01105028	2019.01.23	2019.01.23	2019.01.27	张三	男	64	全血	肺腺癌	/
+>NCCN_11_genes
+gene	mutation_1	mutation_2	mutation_3	frequency	target_drug	resistant_drug
+MET	21外显子p.P1364L	错义变异	NM_000245.3(MET):c.4091C>T(p.Pro1364Leu)	52.19%	/	/
+>Clinical_tips_2_1
+num	context
+1	EGFR(表皮生长因子受体)是一个促癌基因，EGFR基因变异导致的信号激活在许多肿瘤的发展过程中出现，包括非小细胞肺癌(NSCLC)、头颈部肿瘤、食管癌、胃癌、肠癌、肝癌、乳腺癌等等。大多数EGFR突变发生在激酶结构域(18到21号外显子)的ATP结合区，最常见的激活突变是19号外显子缺失以及21号外显子L858R点突变。FDA已经批准EGFR酪氨酸激酶抑制剂(TKI)：厄洛替尼、吉非替尼、阿法替尼、达克替尼、奥希替尼用于治疗EGFR敏感突变的NSCLC；CFDA批准EGFR-TKI：厄洛替尼、吉非替尼、埃克替尼、阿法替尼、奥希替尼用于治疗EGFR敏感突变的NSCLC。
+>Other_45_genes
+gene	mutation_1	mutation_2	mutation_3	frequency	target_drug	sentivity
+mett	22外显子fslfle	sfwelfwo	nmeslfew:cfwefo(fwefagdgf)	12%	/	/
+>Clinical_tips_2_2
+num	context
+>Target_drug
+drug_EN	drug_CN	target	disease	Summary
+Erlotinib	厄洛替尼 	MET	非小细胞肺癌 胰腺癌	敏感
+>Studying_drug
+drug	target	introduction	summary
+AZD1775	WEE1	WEE1小分子抑制剂	可能敏感
+>Chemo_mutation
+chemo_drug	site	result	genotype
+kabo	rs121434568	野生型	TT
+kabo	rs1801133	杂合型	GA
+kabo	rs11615	纯合型	GG
+kabo	rs25487	纯合型	CC
+shunbo	rs2228001	杂合型	GT
+shunbo	rs1042522	杂合型	GC
+shunbo	rs11615	纯合型	GG
+shunbo	rs3212986	杂合型	CA
+shunbo	rs25487	纯合型	CC
+shunbo	rs1695	野生型	AA
+yixi	rs34983651	杂合型	6R/7R
+yixi	rs4148323	野生型	GG
+yixi	rs7779029	野生型	TT
+yixi	rs1517114	杂合型	CG
+jixi	rs121434568	野生型	TT
+jixi	rs1048977	杂合型	CT
+jixi	rs2072671	杂合型	AC
+duoxi	rs121434568	野生型	TT
+duoxi	rs12762549	野生型	CC
+duoxi	rs13181	野生型	TT
+duoxi	rs2740574	纯合型	TT
+zishan	rs121434568	野生型	TT
+zishan	rs1042522	杂合型	GC
+zishan	rs1056836	纯合型	GG
+zishan	rs1045642	杂合型	AG
+zishan	rs2032582	野生型	AA
+changchun	rs2032582	野生型	AA
+yituo	rs716274	杂合型	AG
+peimei	rs151264360	纯合型	del/del
+peimei	rs1051298	纯合型	AA
+>Chemo_sentivity
+chemo_drug	prediction	toxicity
+kabo	可能一般	可能较低
+shunbo	可能较好	可能很好
+yili	NA	可能很好
+jixi	可能一般	可能中等
+duoxi	NA	可能很好
+zishan	可能一般	可能很好
+changchun	可能较好	NA
+yituo	NA	可能很好
+peimei	可能一般	NA
+>Germine
+gene	mutation_classification	mutation	mutation_type	Risk
+BCL2L11	内含子缺失突变	NM_138621.4(BCL2L11):c.394+1479_394+4381del	杂合性	良性
+ALK	错义变异	NM_004304.4(ALK):c.4587C>G(p.Asp1529Glu)	杂合性	良性
+ALK	错义变异	NM_004304.4(ALK):c.4472A>G(p.Lys1491Arg)	杂合性	良性
+ALK	错义变异	NM_004304.4(ALK):c.4381A>G(p.Ile1461Val)	纯合型	良性
+ATM	错义变异	NM_000051.3(ATM):c.5948A>G(p.Asn1983Ser)	纯合型	良性
+BRCA1	错义变异	NM_007294.3(BRCA1):c.4837A>G(p.Ser1613Gly)	杂合性	良性
+BRCA1	错义变异	NM_007294.3(BRCA1):c.3548A>G(p.Lys1183Arg)	杂合性	良性
+BRCA1	错义变异	NM_007294.3(BRCA1):c.3113A>G(p.Glu1038Gly)	杂合性	良性
+BRCA1	错义变异	NM_007294.3(BRCA1):c.2612C>T(p.Pro871Leu)	杂合性	良性
+BRCA2	错义变异	NM_000059.3(BRCA2):c.865A>C(p.Asn289His)	杂合性	良性
+BRCA2	错义变异	NM_000059.3(BRCA2):c.2971A>G(p.Asn991Asp)	杂合性	良性
+BRCA2	错义变异	NM_000059.3(BRCA2):c.7397T>C(p.Val2466Ala)	纯合型	良性
+CCND1	同义变异	NM_053056.2(CCND1):c.723G>A(p.Pro241Pro)	杂合性	良性
+EGFR	错义变异	NM_005228.3(EGFR):c.1562G>A(p.Arg521Lys)	纯合型	良性
+ERBB2	错义变异	NM_004448.3(ERBB2):c.3508C>G(p.Pro1170Ala)	杂合性	良性
+EZH2	错义变异	NM_004456.4(EZH2):c.553G>C(p.Asp185His)	杂合性	良性
+FLT3	错义变异	NM_004119.2(FLT3):c.680C>T(p.Thr227Met)	杂合性	良性
+FLT3	错义变异	NM_004119.2(FLT3):c.20A>G(p.Asp7Gly)	杂合性	良性
+KDR	错义变异	NM_002253.2(KDR):c.1416A>T(p.Gln472His)	纯合型	良性
+KDR	错义变异	NM_002253.2(KDR):c.889G>A(p.Val297Ile)	杂合性	良性
+TP53	错义变异	NM_000546.5(TP53):c.215C>G(p.Pro72Arg)	杂合性	良性

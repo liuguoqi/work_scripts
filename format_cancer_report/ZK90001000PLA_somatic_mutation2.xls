@@ -1,0 +1,3 @@
+sampleName	gene	mutationType	mutationExon	proteinChange	mutationFrequency	HGVS	depth	reference	mutation	chromosome	position	dbsnpID	cosmicID	drugResponse	populationFrequency	degree	duplicationTempP	uniqTempP	duplicationTempS	uniqTempS	HGVS_C
+ZK90001000PLA	MET	missense_variant	21	p.P1364L	52.19%	NM_000245.3(MET):c.4091C>T(p.Pro1364Leu)	6999	C	T	7	116436096	NA	NA	P1364	0	uncertain	348	358	202	190	c.4091C>T
+ZK90001000PLA	mett	sfwelfwo	22	fslfle	12%	nmeslfew:cfwefo(fwefagdgf)	6779	C	T	8	116436097	NA	NA	P1345	0	sensitive	324	456	234	456	t.2345C>A

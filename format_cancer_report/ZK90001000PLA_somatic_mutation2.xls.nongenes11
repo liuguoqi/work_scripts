@@ -1,0 +1,2 @@
+sampleName	gene	mutationType	mutationExon	proteinChange	mutationFrequency	HGVS	depth	reference	mutation	chromosome	position	dbsnpID	cosmicID	drugResponse	populationFrequency	degree	duplicationTempP	uniqTempP	duplicationTempS	uniqTempS	HGVS_C
+ZK90001000PLA	mett	sfwelfwo	22	fslfle	12%	nmeslfew:cfwefo(fwefagdgf)	6779	C	T	8	116436097	NA	NA	P1345	0	sensitive	324	456	234	456	t.2345C>A

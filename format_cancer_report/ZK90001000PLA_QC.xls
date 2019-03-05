@@ -1,0 +1,2 @@
+sampleName	q30_ratio	total_reads	mapped_ratio	insertSize	mean_depth	median_depth	target_ratio	depth_greater_1000X	depth_greater_2000X	depth_greater_5000X	covered_lib_complexity	unique_depth	warning	fail	overall.flag
+ZK90001000PLA	0.938	34302024	1.000	171	8209	7561	0.794	0.990	0.966	0.775	0.424	3203	NA	NA	PASS

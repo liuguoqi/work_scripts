@@ -1,0 +1,4 @@
+chromosome	position	reference	mutation	target_drug	resistant_drug	drug_Sensitive	tips	gene	target_drug_eg	target	disease	study_drug	study_target	introduction	summary
+7.0	55259515.0	T	G	厄洛替尼 	drugA	敏感	EGFR(表皮生长因子受体)是一个促癌基因，EGFR基因变异导致的信号激活在许多肿瘤的发展过程中出现，包括非小细胞肺癌(NSCLC)、头颈部肿瘤、食管癌、胃癌、肠癌、肝癌、乳腺癌等等。大多数EGFR突变发生在激酶结构域(18到21号外显子)的ATP结合区，最常见的激活突变是19号外显子缺失以及21号外显子L858R点突变。FDA已经批准EGFR酪氨酸激酶抑制剂(TKI)：厄洛替尼、吉非替尼、阿法替尼、达克替尼、奥希替尼用于治疗EGFR敏感突变的NSCLC；CFDA批准EGFR-TKI：厄洛替尼、吉非替尼、埃克替尼、阿法替尼、奥希替尼用于治疗EGFR敏感突变的NSCLC。	MET	Erlotinib	MET	非小细胞肺癌 胰腺癌	AZD1775	WEE1	WEE1小分子抑制剂	可能敏感
+12.0	133220098.0	CCA	C	吉非替尼 	drugB	不明感	TP53是最重要的抑癌基因，其突变与多种肿瘤发生发展密切相关。临床研究发现携带TP53功能缺失性突变（包括无义突变、可变剪切以及移码突变）的肿瘤可能对WEE1抑制剂敏感，携带TP53功能获得性突变如 R175、R248 的肿瘤可能对HSP90抑制剂敏感，目前还没有明确针对TP53的靶向药物，相关药物尚处于临床试验阶段，入组临床试验是一种选择。	EGFR	Gefitinib	SEFEF	非小细胞肺癌	AZD1776	WEE2	WEE2小分子抑制剂	可能敏感
+1.0	156844801.0	G	A	埃克替尼	drugC	耐药	厄洛替尼、吉非替尼、埃克替尼、阿法替尼、奥希替尼用于治疗EGFR敏感突变的NSCLC。	EGFR	Icotinib	EGFR	非小细胞肺癌	AZD1777	WEE3	WEE3小分子抑制剂	可能敏感

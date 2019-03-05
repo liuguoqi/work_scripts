@@ -12,3 +12,8 @@ Suppose : work script
 #getfasta 
 1.From a very big file to substract a very small file  eg , from NT or NR database get some fasta file  . 
 ----------------------------------------
+
+----------------------------------------
+#format_cancer_report
+1.This script is to format cancer report
+----------------------------------------

@@ -1,0 +1,10 @@
+drug	efficacy	toxicity
+carboplatin	ordinary	low
+cisplatin	good	high
+irinotecan	NA	high
+gemcitabine	ordinary	medium
+docetaxel	NA	high
+paclitaxel	ordinary	high
+vinca_alkaloids	good	NA
+etoposide	NA	high
+pemetrexed	ordinary	NA

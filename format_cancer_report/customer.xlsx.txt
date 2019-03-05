@@ -1,0 +1,2 @@
+zkjy_ID	zkjy_delegation	zkjy_acception	zkjy_report	zkjy_name	zkjy_gender	zkjy_age	zkjy_sample_type	zkjy_clinical_info	zkjy_submission_unit
+ZK01105028	2019.01.23	2019.01.23	2019.01.27	张三	男	64.0	全血	肺腺癌	/
