@@ -1,0 +1,13 @@
+#sample	Group
+P1	P
+P2	P
+P3	P
+P4	P
+S1	S
+S2	S
+S3	S
+S4	S
+SP1	SP
+SP2	SP
+SP3	SP
+SP4	SP
