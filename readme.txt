@@ -17,3 +17,9 @@ Suppose : work script
 #format_cancer_report
 1.This script is to format cancer report
 ----------------------------------------
+
+----------------------------------------
+#format_cancer_report
+1.single_sample_for_group_venn.pl suppose is to get each sample reads counts or absolute abundance from venn.sets.xls 
+----------------------------------------
+
