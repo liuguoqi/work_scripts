@@ -19,8 +19,8 @@ Suppose : work script
 ----------------------------------------
 
 ----------------------------------------
-#format_cancer_report
+#Venn_single_sample_abundance
 1.single_sample_for_group_venn.pl suppose is to get each sample reads counts or absolute abundance from venn.sets.xls 
-                                           2019-08-13
+                                                                                                      Edited by GuoqiLiu 2019-08-13
 ----------------------------------------
 
